@@ -6,15 +6,15 @@ This project aims to analyze and visualize the growth of submarine cables built 
 
 **Tools & Packages Used**
 
-Python for data retrieval and processing
+- Python for data retrieval and processing
 
-Requests to fetch data from the API
+- Requests to fetch data from the API
 
-Pandas for data cleaning and manipulation
+- Pandas for data cleaning and manipulation
 
-Datawrapper for interactive visualizations
+- Datawrapper for interactive visualizations
 
-HTML & CSS to build a basic website for presentation
+- HTML & CSS to build a basic website for presentation
 
 **Data Collection**
 
