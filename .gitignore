@@ -6,9 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
-.DS_Store
-
-.gitattributes
+git rm --cached .DS_Store
+git rm --cached .gitattributes
 
 # Distribution / packaging
 .Python
